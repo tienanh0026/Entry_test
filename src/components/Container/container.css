@@ -1,0 +1,7 @@
+.container-wrapper{
+    background-color: hsl(214deg 32% 91%);
+    min-height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

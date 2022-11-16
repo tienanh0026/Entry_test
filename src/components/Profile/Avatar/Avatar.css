@@ -1,0 +1,21 @@
+
+.avatar-wrapper{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12px;
+}
+
+.avatar-image{
+    border-radius: 20%;
+    width: 140px;
+}
+
+.info-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+}

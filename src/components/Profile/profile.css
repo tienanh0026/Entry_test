@@ -1,0 +1,53 @@
+.profile-wrapper{
+    width: 80%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    background-color: transparent;
+}
+
+.left-container{
+    
+    flex-direction: column;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.left-first-container{
+    height: 48%;
+
+}
+.left-second-container{
+    height: 48%;
+}
+
+.right-container{
+    flex-direction: column;
+    display: flex;
+    width: 68%;
+    justify-content: space-between;
+}
+.right-first-container{
+    height: 48%;
+
+}
+.right-second-container{
+    height: 48%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.skill-container{
+    width: 40%;
+}
+
+.project-container{
+    width: 57%;
+}
+
+.profile-element{
+    background-color: white;
+    box-shadow: 4px 4px 4px rgb(0 0 0 / 20%);
+    border-radius: 5px;
+}

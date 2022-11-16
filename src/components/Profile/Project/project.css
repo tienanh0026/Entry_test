@@ -1,0 +1,28 @@
+.project-wrapper{
+    height: 100%;
+}
+.project-heading{
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0px 1px 0px rgb(0 0 0 / 20%);
+}
+
+.project-content{
+    height: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    
+    flex-direction: column;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.project-row{
+    height: 100%;
+    box-shadow: 0px 1px 0px rgb(0 0 0 / 20%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
